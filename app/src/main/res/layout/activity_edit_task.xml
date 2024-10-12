@@ -83,7 +83,7 @@
         app:layout_constraintTop_toBottomOf="@+id/DescriptionTV"
         app:layout_constraintVertical_bias="0.1"
         android:layout_marginTop="16dp"
-        android:padding="12dp"/>
+        android:padding="13dp"/>
 
     <Button
         android:id="@+id/button2"
