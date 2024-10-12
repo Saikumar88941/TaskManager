@@ -52,7 +52,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkedTextView"
         app:layout_constraintVertical_bias="0.215"
-        tools:layout_editor_absoluteX="75dp" />
+        tools:layout_editor_absoluteX="70dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
