@@ -12,42 +12,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TaskManager"
         tools:targetApi="31">
+
+        <!-- Main Activity (launcher) -->
         <activity
             android:name=".MainActivity"
-            android:exported="false" />
-        <activity
-            android:name=".activity_main"
-            android:exported="false">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".Add_taskactivity"
-            android:exported="false" />
+
+        <!-- Other Activities -->
         <activity
             android:name=".HistoryActivity"
             android:exported="false" />
+
         <activity
-            android:name=".History_Activity"
+            android:name=".RegistrationActivity"
             android:exported="false" />
+
         <activity
-            android:name=".Registration_layout_Activity"
+            android:name=".LoginActivity"
             android:exported="false" />
-        <activity
-            android:name=".LoginPage"
-            android:exported="false" />
-        <activity
-            android:name=".Add_Task_Activity"
-            android:exported="false" />
-        <activity
-            android:name=".edit_Task_Activity"
-            android:exported="false" />
+
         <activity
             android:name=".remainder_Actrivity"
             android:exported="false" />
-    </application>
 
+    </application>
 </manifest>
