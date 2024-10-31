@@ -63,7 +63,7 @@ public class LoginActivity extends AppCompatActivity {
         Toast.makeText(this, "Login successful", Toast.LENGTH_SHORT).show();
 
         // Navigate to MainActivity after successful login
-        Intent intent = new Intent(LoginActivity.this, activity_main.class);
+        Intent intent = new Intent(LoginActivity.this, MainActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
         startActivity(intent);
         finish();
