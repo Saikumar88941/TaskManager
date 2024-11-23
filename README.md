@@ -1,9 +1,5 @@
 # Task Manager(TO ADD TASKS) 
 
-                                                                                                                   
-
-  
-
 ### App Purpose
 The **TaskManager** application helps users organize their tasks efficiently. Users can create, update, delete, and track progress on their tasks through an intuitive interface.
 
