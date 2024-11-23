@@ -1,5 +1,7 @@
 # Task Manager(TO ADD TASKS) 
 
+  ![icon](https://github.com/user-attachments/assets/8a7af7dd-436f-478f-8ccc-3cedb6823221)
+  
 ### App Purpose
 The **TaskManager** application helps users organize their tasks efficiently. Users can create, update, delete, and track progress on their tasks through an intuitive interface.
 
