@@ -1,9 +1,0 @@
-quadrilateral 5 3 2
-Square
-parallelogram 9 6 4
-nosides
-isoscelestrapezium 7 5 3
-Triangle
-circle 8
-Rectangle
-sphere 6
