@@ -8,10 +8,10 @@
 The **TaskManager** application helps users organize their tasks efficiently. Users can create, update, delete, and track progress on their tasks through an intuitive interface.
 
 ### Activites
-.Login Activity
-.Add Task Activity
-.Task Details Activity
-.Settings Activity
+1.Login Activity
+2.Add Task Activity
+3.Task Details Activity
+4.Settings Activity
 
 ### Steps to proceed:
 Create a new account with basic details like name, email, and password.  
@@ -22,7 +22,6 @@ Set reminders or organize tasks using a calendar.
 Analyze progress with summaries, reports, or charts.  
 
 ### Sequence Information(Activity Flow)
-Here’s a brief explanation of each activity in two lines:  
 
 ### a. **Login Activity**  
 Allows users to securely access their accounts using email and password. Includes options for password recovery and quick logins if available.  
@@ -52,15 +51,15 @@ Allows users to organize tasks into custom categories. Helps group similar tasks
 Shows a log of completed tasks, edits, and changes over time. Users can review their past activities for tracking performance or insights.  
 
 ### Team Members:
-. Jogula,Kalyan Chakravarth-S571662
-. Sai Kumar Manga-S559158
-. Ceemarla,Yogeshwar Reddy-Ss572178 
-. Diva Gnana Deepika Mukku-S573376 
+1. Jogula,Kalyan Chakravarth-S571662
+2. Sai Kumar Manga-S559158
+3. Ceemarla,Yogeshwar Reddy-Ss572178 
+4. Diva Gnana Deepika Mukku-S573376 
 ### Pre-Registered Usernames and Passwords:
-. jogulakalyan8@gmail.com - kalyan@123
-. naninani88941@gmail.com - Saikumar@123
-. yogeshwarreddy2207@gmail.com - yogi@143
-. divyagnanadeepika.m24@gmail.com - deepika@567
+1. jogulakalyan8@gmail.com - kalyan@123
+2. naninani88941@gmail.com - Saikumar@123
+3. yogeshwarreddy2207@gmail.com - yogi@143
+4. divyagnanadeepika.m24@gmail.com - deepika@567
 
 
 
