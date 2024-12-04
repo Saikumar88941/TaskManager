@@ -1,5 +1,6 @@
 # Task Manager(TO ADD TASKS) 
 
+
   ![icon](https://github.com/user-attachments/assets/8a7af7dd-436f-478f-8ccc-3cedb6823221)
   
 ### App Purpose
@@ -12,12 +13,13 @@ The **TaskManager** application helps users organize their tasks efficiently. Us
 - Settings Activity
 
 ### Steps to proceed:
-Create a new account with basic details like name, email, and password.  
-Access your account securely using your credentials.  
-Input new tasks with descriptions, deadlines, and priorities.  
-Edit task details or mark them as completed.  
-Set reminders or organize tasks using a calendar.  
-Analyze progress with summaries, reports, or charts.  
+Enter your name, email address, and password when creating a new account.  
+Use your login information to safely access your account.  
+Add new tasks with priorities, due dates, and descriptions.  
+Modify the task's information or mark it as finished.  
+Use a calendar to arrange chores or set reminders.  
+Use reports, charts, or summaries to evaluate progress.
+  
 
 ### Sequence Information(Activity Flow)
 
