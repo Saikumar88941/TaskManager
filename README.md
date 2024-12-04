@@ -51,15 +51,17 @@ Allows users to organize tasks into custom categories. Helps group similar tasks
 Shows a log of completed tasks, edits, and changes over time. Users can review their past activities for tracking performance or insights.  
 
 ### Team Members:
-- Jogula,Kalyan Chakravarth-S571662
-- Sai Kumar Manga-S559158
-- Ceemarla,Yogeshwar Reddy-S572178 
-- Iva Gnana Deepika Mukku-S573376 
-### Pre-Registered Usernames and Passwords:
-- jogulakalyan8@gmail.com - kalyan@123
-- naninani88941@gmail.com - Saikumar@123
-- yogeshwarreddy2207@gmail.com - yogi@143
-- divyagnanadeepika.m24@gmail.com - deepika@567
+The Task Manager app is brought by our passionate and skilled team:
+Jogula, Kalyan Chakravarth (S571662)
+Sai Kumar Manga (S559158)
+Ceemarla, Yogeshwar Reddy (S572178)
+Diva Gnana Deepika Mukku (S573376)
+### Pre-Registered Users
+Here are some demo accounts we used:
+Kalyan: jogulakalyan8@gmail.com | Password: kalyan@123
+Sai Kumar: naninani88941@gmail.com | Password: Saikumar@123
+Yogeshwar Reddy: yogeshwarreddy2207@gmail.com | Password: yogi@143
+Deepika: divyagnanadeepika.m24@gmail.com | Password: deepika@567
 
 
 
