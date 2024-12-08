@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837140385253",
+    "project_id": "taskmanager-ab5ad",
+    "storage_bucket": "taskmanager-ab5ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837140385253:android:e318ba02d91b7b1fcab30c",
+        "android_client_info": {
+          "package_name": "com.example.newtsk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uFl3SKst0mWHHH6feaZyicDm5-crxMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
